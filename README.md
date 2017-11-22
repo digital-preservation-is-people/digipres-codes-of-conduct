@@ -41,7 +41,7 @@ A list of codes of conduct inside the digital preservation (and related) communi
 
 * Anyone free to make pull requests for new links (one per link)
 * Anyone free to make pull requests with re-organisation efforts
-* [Perma.cc all links and re-submit (10 per colleague signing up](http://perma.cc)
+* [Perma.cc all links and re-submit (10 per colleague signing up)](http://perma.cc)
 
 ## License
 
