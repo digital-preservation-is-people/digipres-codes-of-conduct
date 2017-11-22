@@ -44,6 +44,8 @@ A list of codes of conduct inside the digital preservation (and related) communi
 * [GitHub Adding Codes of Conduct](https://help.github.com/articles/adding-a-code-of-conduct-to-your-project/)
 * [Ada Initiative's anti-harassment work](https://perma.cc/W3BG-S25M)
 * [Geek Feminism Wiki conference anti-harassment/policy resources](http://geekfeminism.wikia.com/wiki/Anti-harassment_policy_resources)
+* [A Code of Conduct is Not Enough](https://perma.cc/SXT5-75SJ)
+* [Codes of Conduct 101 + FAQ](https://perma.cc/9UX8-48KJ)
 
 ## Contributing
 
