@@ -30,6 +30,7 @@ A list of codes of conduct inside the digital preservation (and related) communi
 * [Allied Media Conference](https://perma.cc/2QE2-S6FZ)
 * [No Time To Wait](https://perma.cc/G66M-GDE6)
 * [DuraSpace](https://perma.cc/Z5T2-8JF9)
+* [PyCon](https://us.pycon.org/2016/about/code-of-conduct/)
 
 ## Organisations with Unknown Status
 
