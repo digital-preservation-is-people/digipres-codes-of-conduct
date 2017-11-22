@@ -26,16 +26,23 @@ A list of codes of conduct inside the digital preservation (and related) communi
 * [Nerdnight Wellington NZ](https://wellington.nerdnite.com/code-of-conduct/)
 * [Open Repositories 2017](https://or2017.net/code-of-conduct/)
 * [Rust Language](https://www.rust-lang.org/en-US/conduct.html)
+* [Samvera](https://perma.cc/FJR3-9WXJ)
+* [Allied Media Conference](https://perma.cc/2QE2-S6FZ)
+* [No Time To Wait](https://perma.cc/G66M-GDE6)
+* [DuraSpace](https://perma.cc/Z5T2-8JF9)
 
 ## Organisations with Unknown Status
 
 * [iPRES (N.B. Code of Conduct: No)](http://www.ipres2016.ch/frontend/organizers/media/iPRES2016/iPRES2016_.pdf)
 * [Australian Society of Archivists (drafted but not published?)](https://twitter.com/mikejonesmelb/status/892232454152400898)
 * [Association of Canadian Archivists (blank page)](https://archivists.ca/content/code-conduct)
+* [National Digital Stewardship Alliance (drafted a preliminary document)](https://perma.cc/YTF2-ENL7)
 
 ## Help with Codes of Conduct
 
 * [GitHub Adding Codes of Conduct](https://help.github.com/articles/adding-a-code-of-conduct-to-your-project/)
+* [Ada Initiative's anti-harassment work](https://perma.cc/W3BG-S25M)
+* [Geek Feminism Wiki conference anti-harassment/policy resources](http://geekfeminism.wikia.com/wiki/Anti-harassment_policy_resources)
 
 ## Contributing
 
