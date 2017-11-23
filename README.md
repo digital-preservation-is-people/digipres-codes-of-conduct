@@ -52,6 +52,7 @@ A list of codes of conduct inside the digital preservation (and related) communi
 * [NDFNZ](http://www.ndf.org.nz/code-of-conduct/)
 * [NDLC](http://ndlc.info/conduct)
 * [NetHui NZ](https://2017.nethui.nz/code-of-conduct/)
+* [Netpreserve (IIPC)](https://perma.cc/FUX6-NYDR)
 * [New England Archivists (NEA)](https://www.newenglandarchivists.org/Code-of-Conduct)
 * [New Jersey Library Association](http://njlaconference.info/content/Code-of-Conduct)
 * [No Time To Wait](https://perma.cc/G66M-GDE6)
