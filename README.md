@@ -96,6 +96,10 @@ A list of codes of conduct inside the digital preservation (and related) communi
 * [Society of California Archivists](http://www.calarchivists.org/)
 * [South West Image Bank](http://www.southwestimagebank.com/swib.html)
 
+## Organisations opting to be Code of Conduct Free 😐
+
+* [Wau Holland Foundation](https://perma.cc/SP63-73MF) "	Wau Holland Foundation will be gathering together with groups and individuals from our project areas. Please be aware, that we aim to provide a code-of-conduct free zone within our assembly. Enter at own risk."
+
 ## Help with Codes of Conduct
 
 * [A Code of Conduct is Not Enough](https://perma.cc/SXT5-75SJ)
