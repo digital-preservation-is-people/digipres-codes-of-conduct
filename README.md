@@ -1,4 +1,4 @@
-```N.B. This page is a community effort and the Canonical version of this reference is now found at```
+```N.B. This page is a community effort and the Canonical version of this reference is now found at:```
 
 ### [Digital Preservation is People](https://github.com/digitalpreservation-is-people/digipres-codes-of-conduct)
 
