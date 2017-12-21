@@ -116,7 +116,7 @@ A list of codes of conduct inside the digital preservation (and related) communi
 
 ## Contributing
 
-* Anyone free to make pull requests for new links (one per link)
+* Anyone free to make pull requests for new links (one per link is ideal)
 * Anyone free to make pull requests with re-organisation efforts
 * [Perma.cc all links and re-submit (10 Perma Allowed Per Colleague Per Month)](http://perma.cc)
 
