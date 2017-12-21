@@ -1,8 +1,14 @@
-# Codes of Conduct inside Digital Preservation
+```N.B. This page is a community effort and the Canonical version of this reference is now found at```
+
+### [Digital Preservation is People](https://github.com/digitalpreservation-is-people/digipres-codes-of-conduct)
+
+---
+
+#### Codes of Conduct inside Digital Preservation
 
 A list of codes of conduct inside the digital preservation (and related) community. 
 
-## Organisations with Codes of Conduct
+#### Organisations with Codes of Conduct
 
 * [Access](http://accessconference.ca/access-code-of-conduct/)
 * [Alliance of Digital Humanities Organisations](http://adho.org/administration/conference-coordinating-program-committee/adho-conference-code-conduct)
@@ -74,7 +80,7 @@ A list of codes of conduct inside the digital preservation (and related) communi
 * [Texas Conference on Digital Libraries](https://tcdl-ocs-tdl.tdl.org/tcdl/index.php/TCDL/index/pages/view/code_of_conduct)
 * [XFR Collective](https://xfrcollective.wordpress.com/code-of-conduct/)
 
-## Organisations with Unknown Status
+#### Organisations with Unknown Status
 
 * [American Alliance of Museums](http://www.aam-us.org/)
 * [Archives and Records Association (ARA)](http://www.archives.org.uk)
@@ -110,17 +116,17 @@ A list of codes of conduct inside the digital preservation (and related) communi
 * [Geek Feminism Wiki Additional Conference Links](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Adoption#Libtech.2C_Library.2C_and_Archive_Conferences)
 * [GitHub Adding Codes of Conduct](https://help.github.com/articles/adding-a-code-of-conduct-to-your-project/)
 
-## Examples of Enforcing Codes of Conduct
+#### Examples of Enforcing Codes of Conduct
 
 * [Code4Lib Duty Officers](http://2017.code4lib.org/duty-officers/)
 
-## Contributing
+#### Contributing
 
 * Anyone free to make pull requests for new links (one per link)
 * Anyone free to make pull requests with re-organisation efforts
 * [Perma.cc all links and re-submit (10 Perma Allowed Per Colleague Per Month)](http://perma.cc)
 
-## License
+#### License
 
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
