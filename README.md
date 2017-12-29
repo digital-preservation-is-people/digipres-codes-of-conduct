@@ -109,7 +109,6 @@ A list of codes of conduct inside the digital preservation (and related) communi
 * [Geek Feminism Wiki conference anti-harassment/policy resources](http://geekfeminism.wikia.com/wiki/Anti-harassment_policy_resources)
 * [Geek Feminism Wiki Additional Conference Links](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Adoption#Libtech.2C_Library.2C_and_Archive_Conferences)
 * [GitHub Adding Codes of Conduct](https://help.github.com/articles/adding-a-code-of-conduct-to-your-project/)
-* [Training for Code of Conduct Incident Response](https://perma.cc/U4SM-MEFX)
 
 ## Examples of Enforcing Codes of Conduct
 * [After a Year of #MeToo Impacting the Hacker Community, We Still Have Far to Go](https://perma.cc/3724-GHNC)
