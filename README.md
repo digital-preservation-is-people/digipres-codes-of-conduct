@@ -83,6 +83,7 @@ A list of codes of conduct inside the digital preservation (and related) communi
 * [Australian Society of Archivists (drafted but not published?)](https://twitter.com/mikejonesmelb/status/892232454152400898)
 * [British Columbia Library Association](https://bclaconnect.ca)
 * [Canadian Museums Association](http://www.museums.ca/)
+* [Coalition for Networked Information](https://perma.cc/7HQ8-32NQ)
 * [Council of State Archivists](https://www.statearchivists.org)
 * [Curate Gear](https://ils.unc.edu/digccurr/curategear2016.html)
 * [iPRES (N.B. Code of Conduct: No)](https://perma.cc/J3TP-434J)
