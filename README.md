@@ -23,6 +23,7 @@ A list of codes of conduct inside the digital preservation (and related) communi
 * [CAPAL](http://conference.capalibrarians.org/a-safe-space/)
 * [Code4Lib](http://2017.code4lib.org/conduct/)
 * [Digital Library Federation](https://www.diglib.org/about/code-of-conduct/)
+* [Documenting the Now](https://perma.cc/2DWT-UJF4) 
 * [DuraSpace](https://perma.cc/Z5T2-8JF9)
 * [ER&L](https://www.electroniclibrarian.org/about/)
 * [Evergreen Events](http://evergreen-ils.org/code-of-conduct/)
