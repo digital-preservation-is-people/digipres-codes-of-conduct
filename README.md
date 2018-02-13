@@ -26,6 +26,7 @@ A list of codes of conduct inside the digital preservation (and related) communi
 * [Documenting the Now](https://perma.cc/2DWT-UJF4) 
 * [DuraSpace](https://perma.cc/Z5T2-8JF9)
 * [ER&L](https://www.electroniclibrarian.org/about/)
+* [Ethics and Archiving the Web (Rhizome)](https://eaw.rhizome.org/)
 * [Evergreen Events](http://evergreen-ils.org/code-of-conduct/)
 * [FFMPEG](https://ffmpeg.org/developer.html#Code-of-conduct)
 * [Geek Feminisism Wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
