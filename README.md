@@ -1,8 +1,8 @@
-# Codes of Conduct inside Digital Preservation
+#### Codes of Conduct inside Digital Preservation
 
-A list of codes of conduct inside the digital preservation (and related) community. 
+A list of codes of conduct inside the digital preservation (and related) community.
 
-## Organisations with Codes of Conduct
+#### Organisations with Codes of Conduct
 
 * [Access](http://accessconference.ca/access-code-of-conduct/)
 * [Alliance of Digital Humanities Organisations](http://adho.org/administration/conference-coordinating-program-committee/adho-conference-code-conduct)
@@ -23,7 +23,7 @@ A list of codes of conduct inside the digital preservation (and related) communi
 * [Code4Lib](http://2017.code4lib.org/conduct/)
 * [Digital Library Federation](https://www.diglib.org/about/code-of-conduct/)
 * [Digital Preservation Coalition](https://www.dpconline.org/docs/miscellaneous/about/1807-dpc-inclusion-and-diversity-policy/file)
-* [Documenting the Now](https://perma.cc/2DWT-UJF4) 
+* [Documenting the Now](https://perma.cc/2DWT-UJF4)
 * [DuraSpace](https://perma.cc/Z5T2-8JF9)
 * [ER&L](https://www.electroniclibrarian.org/about/)
 * [Ethics and Archiving the Web (Rhizome)](https://eaw.rhizome.org/)
@@ -37,7 +37,7 @@ A list of codes of conduct inside the digital preservation (and related) communi
 * [Hydra Connect](https://wiki.duraspace.org/display/hydra/Anti-Harassment+Policy)
 * [IASSIST](http://www.iassistdata.org/conferences/conference-code-of-conduct)
 * [IIIF](http://iiif.io/event/conduct/)
-* [iPRES2018](https://ipres2018.org/code-of-conduct/) 
+* [iPRES2018](https://ipres2018.org/code-of-conduct/)
 * [Information Today conferences](http://www.infotoday.com/CodeOfConduct.shtml)
 * [International Association of Sound and Audiovisual Archives (IASA)](https://www.iasa-web.org/code-conduct)
 * [IS&T Archiving](http://www.imaging.org/site/IST/About_Us/Policies/Code_of_Conduct/IST/Policies/Code_of_Conduct.aspx?hkey=e673ca28-3e4b-4b53-9401-0508ced193ea)
@@ -72,14 +72,14 @@ A list of codes of conduct inside the digital preservation (and related) communi
 * [Rust Language](https://www.rust-lang.org/en-US/conduct.html)
 * [Samvera](https://perma.cc/FJR3-9WXJ)
 * [Society of American Archivists](https://www2.archivists.org/statements/saa-code-of-conduct)
-* [Society of Rocky Mountain Archivists](http://www.srmarchivists.org/about-us/documentation/code-of-conduct/) 
+* [Society of Rocky Mountain Archivists](http://www.srmarchivists.org/about-us/documentation/code-of-conduct/)
 * [Software Carpentry](https://perma.cc/UUT4-72RF)
 * [Special Libraries Association](http://www.sla.org/attend/2014-annual-conference/general-info/anti-harassment-policy/)
 * [Startup Weekend: Library Edition](https://docs.google.com/file/d/0B0YYvFxRvIwgR0tqVkE2ODB5bE0/edit)
 * [Texas Conference on Digital Libraries](https://tcdl-ocs-tdl.tdl.org/tcdl/index.php/TCDL/index/pages/view/code_of_conduct)
 * [XFR Collective](https://xfrcollective.wordpress.com/code-of-conduct/)
 
-## Organisations with Unknown Status
+#### Organisations with Unknown Status
 
 * [American Alliance of Museums](http://www.aam-us.org/)
 * [Archives and Records Association (ARA)](http://www.archives.org.uk)
@@ -125,13 +125,13 @@ A list of codes of conduct inside the digital preservation (and related) communi
 * [Training for Code of Conduct Incident Response](https://perma.cc/U4SM-MEFX)
 * [When a Code of Conduct becomes harmful](https://medium.com/@fox/when-a-code-of-conduct-becomes-harmful-1d4e737ff7aa)
 
-## Contributing
+#### Contributing
 
 * Anyone free to make pull requests for new links (one per link is ideal)
 * Anyone free to make pull requests with re-organisation efforts
 * [Perma.cc all links and re-submit (10 Perma Allowed Per Colleague Per Month)](http://perma.cc)
 
-## License
+#### License
 
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
