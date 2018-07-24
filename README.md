@@ -23,6 +23,7 @@ A list of codes of conduct inside the digital preservation (and related) communi
 * [Code4Lib](http://2017.code4lib.org/conduct/)
 * [Digital Library Federation](https://www.diglib.org/about/code-of-conduct/)
 * [Digital Preservation Coalition](https://www.dpconline.org/docs/miscellaneous/about/1807-dpc-inclusion-and-diversity-policy/file)
+* [digipres.club on mastodon](https://perma.cc/BMD3-VKMQ)
 * [Documenting the Now](https://perma.cc/2DWT-UJF4)
 * [DuraSpace](https://perma.cc/Z5T2-8JF9)
 * [ER&L](https://www.electroniclibrarian.org/about/)
