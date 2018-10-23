@@ -1,4 +1,4 @@
-#### Codes of Conduct inside Digital Preservation
+## Codes of Conduct inside Digital Preservation
 
 A list of codes of conduct inside the digital preservation (and related) community.
 
