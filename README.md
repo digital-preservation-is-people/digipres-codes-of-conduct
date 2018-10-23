@@ -105,7 +105,11 @@ A list of codes of conduct inside the digital preservation (and related) communi
 
 ## Organisations opting to be Code of Conduct Free 😐
 
-* [Wau Holland Foundation](https://perma.cc/SP63-73MF) "	Wau Holland Foundation will be gathering together with groups and individuals from our project areas. Please be aware, that we aim to provide a code-of-conduct free zone within our assembly. Enter at own risk."
+* [Wau Holland Foundation](https://perma.cc/SP63-73MF) "Wau Holland Foundation will be gathering together with groups and individuals from our project areas. Please be aware, that we aim to provide a code-of-conduct free zone within our assembly. Enter at own risk."
+
+## Organisations setting the worst kinds of examples
+
+* [SQLite](https://perma.cc/9N9Y-G3EC) "Having been encouraged by clients to adopt a written code of conduct, the SQLite developers elected to govern their interactions with each other, with their clients, and with the larger SQLite user community in accordance with the "instruments of good works" from chapter 4 of The Rule of St. Benedict. This code of conduct has proven its mettle in thousands of diverse communities for over 1,500 years, and has served as a baseline for many civil law codes since the time of Charlemagne."
 
 ## Help with Codes of Conduct
 
