@@ -12,7 +12,7 @@ A list of codes of conduct inside the digital preservation (and related) communi
 * [Archives Association of B.C](http://aabc.ca/about-us/code-of-conduct/)
 * [Archives Association of Ontario](http://aao-archivists.ca/Code-of-Conduct)
 * [Art Libraries Association of North America](https://www.arlisna.org/organization/organization/30-administrative-documents/892-code-of-conduct)
-* [Association of Moving Image Archivists Conference](http://www.amiaconference.net/amia-code-of-conduct/)
+* [Association of Moving Image Archivists Conference](https://amianet.org/wp-content/uploads/AMIA-Code-of-Conduct.pdf)
 * [AtoM Camp](https://wiki.accesstomemory.org/Community/Camps/SFU2017#Code_of_Conduct)
 * [AtoM Forum](https://wiki.accesstomemory.org/Resources/User_forum#Code_of_conduct)
 * [Australasia Preserves (WIP)](https://groups.google.com/d/msg/australasia-preserves/fSu7vPFeVdU/oHdwoIH9BAAJ)
