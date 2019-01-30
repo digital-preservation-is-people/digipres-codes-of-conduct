@@ -8,7 +8,7 @@ A list of codes of conduct inside the digital preservation (and related) communi
 * [Alliance of Digital Humanities Organisations](http://adho.org/administration/conference-coordinating-program-committee/adho-conference-code-conduct)
 * [ALISE](http://www.alise.org/alise-2017-conference-code-of-conduct)
 * [Allied Media Conference](https://perma.cc/2QE2-S6FZ)
-* [American Library Association](http://alaac15.ala.org/statement-of-appropriate-conduct)
+* [American Library Association](http://www.ala.org/conferencesevents/statement_appropriate_conduct)
 * [Archives Association of B.C](http://aabc.ca/about-us/code-of-conduct/)
 * [Archives Association of Ontario](http://aao-archivists.ca/Code-of-Conduct)
 * [Art Libraries Association of North America](https://www.arlisna.org/organization/organization/30-administrative-documents/892-code-of-conduct)
