@@ -130,6 +130,7 @@ A list of codes of conduct inside the digital preservation (and related) communi
 * [Code of Conduct Enforcement Warning Signs](https://perma.cc/3MRD-ULPC)
 * [Training for Code of Conduct Incident Response](https://perma.cc/U4SM-MEFX)
 * [When a Code of Conduct becomes harmful](https://medium.com/@fox/when-a-code-of-conduct-becomes-harmful-1d4e737ff7aa)
+* [Educopia on concrete actions supporting a code of conduct](https://educopia.org/making-community-spaces-safer/)
 
 #### Contributing
 
