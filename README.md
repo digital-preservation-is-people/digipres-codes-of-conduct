@@ -15,7 +15,7 @@ A list of codes of conduct inside the digital preservation (and related) communi
 * [Association of Moving Image Archivists Conference](https://amianet.org/wp-content/uploads/AMIA-Code-of-Conduct.pdf)
 * [AtoM Camp](https://wiki.accesstomemory.org/Community/Camps/SFU2017#Code_of_Conduct)
 * [AtoM Forum](https://wiki.accesstomemory.org/Resources/User_forum#Code_of_conduct)
-* [Australasia Preserves (WIP)](https://groups.google.com/d/msg/australasia-preserves/fSu7vPFeVdU/oHdwoIH9BAAJ)
+* [Australasia Preserves (WIP)](https://blogs.unimelb.edu.au/digital-preservation-project/2018/11/07/developing-a-community-code-of-conduct-for-australasia-preserves/)
 * [BitCurator User forum/events](https://perma.cc/95N4-NTJZ)
 * [Botwiki and Botmakers](https://botwiki.org/coc/)
 * [California Academic and Research Libraries](http://carl-acrl.org/documents/CARL_Conference_Code_of_Conduct.pdf)
