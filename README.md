@@ -40,6 +40,8 @@ A list of codes of conduct inside the digital preservation (and related) communi
 * [IASSIST](http://www.iassistdata.org/conferences/conference-code-of-conduct)
 * [IIIF](http://iiif.io/event/conduct/)
 * [iPRES2018](https://ipres2018.org/code-of-conduct/)
+* [iPRES2019](https://ipres2019.org/about/code-of-conduct/)
+* [iGeLU International Group of Ex Libris Users](https://igelu.org/about/code-of-conduct-and-response-framework)
 * [Information Today conferences](http://www.infotoday.com/CodeOfConduct.shtml)
 * [International Association of Sound and Audiovisual Archives (IASA)](https://www.iasa-web.org/code-conduct)
 * [IS&T Archiving](http://www.imaging.org/site/IST/About_Us/Policies/Code_of_Conduct/IST/Policies/Code_of_Conduct.aspx?hkey=e673ca28-3e4b-4b53-9401-0508ced193ea)
