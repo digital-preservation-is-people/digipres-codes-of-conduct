@@ -125,6 +125,7 @@ A list of codes of conduct inside the digital preservation (and related) communi
 * [GitHub Adding Codes of Conduct](https://help.github.com/articles/adding-a-code-of-conduct-to-your-project/)
 * [How to write a great code of conduct](https://medium.com/uplifttogether/how-to-write-a-great-code-of-conduct-2d32448c96a)
 * [The complex reality of adopting a meaningful code of conduct](https://subfictional.com/the-complex-reality-of-adopting-a-meaningful-code-of-conduct/)
+* [Ideas for inclusive events](https://github.com/alexwlchan/ideas-for-inclusive-events/)
 
 ## Examples of Enforcing Codes of Conduct
 * [After a Year of #MeToo Impacting the Hacker Community, We Still Have Far to Go](https://perma.cc/3724-GHNC)
