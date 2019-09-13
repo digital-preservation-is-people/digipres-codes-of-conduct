@@ -1,8 +1,8 @@
-## Codes of Conduct inside Digital Preservation
+# Codes of Conduct inside Digital Preservation
 
 A list of codes of conduct inside the digital preservation (and related) community.
 
-#### Organisations with Codes of Conduct
+## Organisations with codes of conduct
 
 * [Access](http://accessconference.ca/access-code-of-conduct/)
 * [Alliance of Digital Humanities Organisations](http://adho.org/administration/conference-coordinating-program-committee/adho-conference-code-conduct)
@@ -15,7 +15,8 @@ A list of codes of conduct inside the digital preservation (and related) communi
 * [Association of Moving Image Archivists Conference](https://amianet.org/wp-content/uploads/AMIA-Code-of-Conduct.pdf)
 * [AtoM Camp](https://wiki.accesstomemory.org/Community/Camps/SFU2017#Code_of_Conduct)
 * [AtoM Forum](https://wiki.accesstomemory.org/Resources/User_forum#Code_of_conduct)
-* [Australasia Preserves (WIP)](https://blogs.unimelb.edu.au/digital-preservation-project/2018/11/07/developing-a-community-code-of-conduct-for-australasia-preserves/)
+* [Australasia Preserves](https://blogs.unimelb.edu.au/digital-preservation-project/2018/11/07/developing-a-community-code-of-conduct-for-australasia-preserves/)
+* [AusGlam.space](https://ausglam.space/about/more)
 * [BitCurator User forum/events](https://perma.cc/95N4-NTJZ)
 * [Botwiki and Botmakers](https://botwiki.org/coc/)
 * [California Academic and Research Libraries](http://carl-acrl.org/documents/CARL_Conference_Code_of_Conduct.pdf)
@@ -23,8 +24,8 @@ A list of codes of conduct inside the digital preservation (and related) communi
 * [CAPAL](http://conference.capalibrarians.org/a-safe-space/)
 * [Code4Lib](http://2017.code4lib.org/conduct/)
 * [Digital Library Federation](https://www.diglib.org/about/code-of-conduct/)
-* [Digital Preservation Coalition](https://www.dpconline.org/docs/miscellaneous/about/1807-dpc-inclusion-and-diversity-policy/file)
 * [digipres.club on mastodon](https://perma.cc/BMD3-VKMQ)
+* [Digital Preservation Coalition Inclusion and Diversity Policy](https://www.dpconline.org/docs/miscellaneous/about/1807-dpc-inclusion-and-diversity-policy/file)
 * [Documenting the Now](https://perma.cc/2DWT-UJF4)
 * [DuraSpace](https://perma.cc/Z5T2-8JF9)
 * [ER&L](https://www.electroniclibrarian.org/about/)
@@ -83,7 +84,7 @@ A list of codes of conduct inside the digital preservation (and related) communi
 * [Texas Conference on Digital Libraries](https://tcdl-ocs-tdl.tdl.org/tcdl/index.php/TCDL/index/pages/view/code_of_conduct)
 * [XFR Collective](https://xfrcollective.wordpress.com/code-of-conduct/)
 
-#### Organisations with Unknown Status
+## Organisations with unknown status
 
 * [American Alliance of Museums](http://www.aam-us.org/)
 * [Archives and Records Association (ARA)](http://www.archives.org.uk)
@@ -114,7 +115,7 @@ A list of codes of conduct inside the digital preservation (and related) communi
 
 * [SQLite](https://perma.cc/9N9Y-G3EC) "Having been encouraged by clients to adopt a written code of conduct, the SQLite developers elected to govern their interactions with each other, with their clients, and with the larger SQLite user community in accordance with the "instruments of good works" from chapter 4 of The Rule of St. Benedict. This code of conduct has proven its mettle in thousands of diverse communities for over 1,500 years, and has served as a baseline for many civil law codes since the time of Charlemagne."
 
-## Help with Codes of Conduct
+## Help with codes of conduct
 
 * [A Code of Conduct is Not Enough](https://perma.cc/SXT5-75SJ)
 * [Ada Initiative's anti-harassment work](https://perma.cc/W3BG-S25M)
@@ -126,7 +127,7 @@ A list of codes of conduct inside the digital preservation (and related) communi
 * [How to write a great code of conduct](https://medium.com/uplifttogether/how-to-write-a-great-code-of-conduct-2d32448c96a)
 * [The complex reality of adopting a meaningful code of conduct](https://subfictional.com/the-complex-reality-of-adopting-a-meaningful-code-of-conduct/)
 
-## Examples of Enforcing Codes of Conduct
+## Examples of enforcing codes of conduct
 * [After a Year of #MeToo Impacting the Hacker Community, We Still Have Far to Go](https://perma.cc/3724-GHNC)
 * [Code4Lib Duty Officers](http://2017.code4lib.org/duty-officers/)
 * [Code of Conduct Enforcement Warning Signs](https://perma.cc/3MRD-ULPC)
@@ -134,13 +135,17 @@ A list of codes of conduct inside the digital preservation (and related) communi
 * [When a Code of Conduct becomes harmful](https://medium.com/@fox/when-a-code-of-conduct-becomes-harmful-1d4e737ff7aa)
 * [Educopia on concrete actions supporting a code of conduct](https://educopia.org/making-community-spaces-safer/)
 
-#### Contributing
+## Resources supporting codes of conduct
+
+* [Recurse Center Social Rules](https://www.recurse.com/social-rules)
+
+## Contributing to this resource
 
 * Anyone free to make pull requests for new links (one per link is ideal)
 * Anyone free to make pull requests with re-organisation efforts
 * [Perma.cc all links and re-submit (10 Perma Allowed Per Colleague Per Month)](http://perma.cc)
 
-#### License
+## License
 
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
