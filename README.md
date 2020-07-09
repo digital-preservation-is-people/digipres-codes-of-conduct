@@ -23,6 +23,7 @@ A list of codes of conduct inside the digital preservation (and related) communi
 * [Canadian Library Association](http://www.claconference.ca/general-information/conference-code-of-conduct)
 * [CAPAL](http://conference.capalibrarians.org/a-safe-space/)
 * [Code4Lib](http://2017.code4lib.org/conduct/)
+* [CRKN](https://perma.cc/X97N-GAR5)
 * [Digital Library Federation](https://www.diglib.org/about/code-of-conduct/)
 * [digipres.club on mastodon](https://perma.cc/BMD3-VKMQ)
 * [Digital Preservation Coalition Inclusion and Diversity Policy](https://www.dpconline.org/docs/miscellaneous/about/1807-dpc-inclusion-and-diversity-policy/file)
