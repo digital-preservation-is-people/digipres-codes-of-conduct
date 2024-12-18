@@ -68,6 +68,7 @@ A list of codes of conduct inside the digital preservation (and related) communi
 * [No Time To Wait](https://perma.cc/G66M-GDE6)
 * [Northwest Archivists](http://northwestarchivistsinc.wildapricot.org/CodeOfConductEvents)
 * [Ontario Library Association (e.g. Super Conference)](http://www.olasuperconference.ca/about/code-of-conduct/)
+* [Open preservation foundation (OPF)](https://openpreservation.org/resources-guidance/)
 * [Open Repositories 2017](https://or2017.net/code-of-conduct/)
 * [Pasig](https://pasigoxford.org/#code-of-conduct-1-section)
 * [Personal Digital Archiving](https://library.stanford.edu/projects/personal-digital-archiving-2017/code-conduct)
